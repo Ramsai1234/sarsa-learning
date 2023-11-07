@@ -105,11 +105,11 @@ def sarsa(env,
 
 
 ### Plot for State Value Function - Monte Carlo:
-<img width="992" alt="image" src="https://github.com/Monisha-11/sarsa-learning/assets/93427240/583488c7-c5f3-458d-92ac-93e63f7d7e60">
+![image](https://github.com/Ramsai1234/sarsa-learning/assets/94269989/9bb9c216-c207-4585-9ecc-492de18297a0)
 
 
 ### Plot for State Value Function - SARSA Learning:
-<img width="987" alt="image" src="https://github.com/Monisha-11/sarsa-learning/assets/93427240/61e12292-4768-4c4a-b748-cff2ca612f54">
+![image](https://github.com/Ramsai1234/sarsa-learning/assets/94269989/4ef515da-663a-4ee9-a7aa-ad89ba4168d4)
 
 
 
