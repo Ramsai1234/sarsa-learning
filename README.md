@@ -94,14 +94,14 @@ def sarsa(env,
 ## OUTPUT:
 
 ### Optimal Policy:
-<img width="754" alt="image" src="https://github.com/Monisha-11/sarsa-learning/assets/93427240/36fbdeef-dc13-4c84-bc70-594763e894bb">
+![image](https://github.com/Ramsai1234/sarsa-learning/assets/94269989/b1f0e2fd-3016-4de5-b624-ee742c65d042)
 
 ### First Visit Monte Carlo Method:
-<img width="755" alt="image" src="https://github.com/Monisha-11/sarsa-learning/assets/93427240/448e6032-4f60-4443-b01b-8cbc162305c3">
+![image](https://github.com/Ramsai1234/sarsa-learning/assets/94269989/839d4ba3-c368-4a6a-884a-7454e439b8ca)
 
 
 ### SARSA Learning Algorithm:
-<img width="762" alt="image" src="https://github.com/Monisha-11/sarsa-learning/assets/93427240/4f5b20ea-e1f7-4792-934c-3a297dc076c0">
+![image](https://github.com/Ramsai1234/sarsa-learning/assets/94269989/c2793936-d56c-41b7-94d7-11c9493ac24f)
 
 
 ### Plot for State Value Function - Monte Carlo:
